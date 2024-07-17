@@ -1,0 +1,28 @@
+nav{
+    background-color: #333;
+    color: white;
+    padding:30px;
+}
+nav ul{
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+footer{
+    background-color: #2858de;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
